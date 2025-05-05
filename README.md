@@ -112,7 +112,3 @@ This project is open-source and available under the MIT License.
 UCI Machine Learning Repository
 
 Scikit-learn and Streamlit teams
-
-yaml
-نسخ
-تحرير
