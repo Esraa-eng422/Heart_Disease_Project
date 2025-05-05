@@ -59,21 +59,16 @@ The final model is deployed in a user-friendly web interface using Streamlit.
 ### How to Run:
 
 1. Clone the repository:
-```bash
 git clone https://github.com/yourusername/Heart_Disease_Project.git
 cd Heart_Disease_Project/streamlit_app
 
-Install dependencies:
-
-bash
+2.Install dependencies:
 
 
 pip install -r ../requirements.txt
-Run the app:
 
-bash
-نسخ
-تحرير
+3.Run the app:
+
 streamlit run app.py
 ✅ Requirements
 Python 3.8+
@@ -92,9 +87,9 @@ seaborn
 
 Install all dependencies using:
 
-bash
-نسخ
-تحرير
+
+
+
 pip install -r requirements.txt
 👤 Author
 Esraa Ali Mahmoud Elsayed Abu Elkhir
