@@ -98,7 +98,7 @@ GitHub: Esraa-eng422
 
 Email: esraaabuelkhir@gmail.com
 
-LinkedIn: Esraa's Profile
+LinkedIn: https://www.linkedin.com/in/esraa-abu-el-khir-79a276250/
 
 📌 License
 This project is open-source and available under the MIT License.
