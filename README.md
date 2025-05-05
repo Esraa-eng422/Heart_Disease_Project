@@ -59,7 +59,7 @@ The final model is deployed in a user-friendly web interface using Streamlit.
 ### How to Run:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/Heart_Disease_Project.git
+git clone https://github.com/Esraa-eng422/Heart_Disease_Project.git
 cd Heart_Disease_Project/streamlit_app
 
 2.Install dependencies:
