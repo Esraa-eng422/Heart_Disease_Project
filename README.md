@@ -94,7 +94,7 @@ pip install -r requirements.txt
 👤 Author
 Esraa Ali Mahmoud Elsayed Abu Elkhir
 
-GitHub: Esraa-eng422
+GitHub: https://github.com/Esraa-eng422
 
 Email: esraaabuelkhir@gmail.com
 
